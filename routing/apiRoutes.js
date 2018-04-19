@@ -44,8 +44,8 @@ module.exports = function (app) {
         friendsArray.friendsArray.push(req.body);
         console.log("====ARRAY NOW=====")
         console.log(friendsArray);
-        console.log("")
-        console.log()
+        // console.log("")
+        // console.log()
     });
 }
 
